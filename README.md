@@ -183,7 +183,7 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## Acknowledgement
 
-- This repository adapts code from [Time-LLM](https://github.com/KimMeen/Time-LLM), which is licensed under the Apache License, Version 2.0. We thank the original authors for providing the codebase.
+This repository adapts code from [Time-LLM](https://github.com/KimMeen/Time-LLM), which is licensed under the Apache License, Version 2.0. We thank the original authors for providing the codebase.
 
 ---
 
